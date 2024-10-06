@@ -60,3 +60,9 @@ This **End-to-End College Database Solution** project exemplifies the intersecti
 
 **Note**: Please refer to the comments and instructions within the code to avoid errors or conflicts while working on this project.
 
+## How to Use
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/anilsolanki2645/Snowflake_College_Database_Automation__Solution.git
+   cd Snowflake_College_Database_Automation__Solution
