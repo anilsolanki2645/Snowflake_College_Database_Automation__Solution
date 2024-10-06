@@ -1,0 +1,41 @@
+Event_ID,Event_Name,Date,Location,Organizer
+1,Tech Fest,2024-01-15,Main Auditorium,Student Council
+2,Sports Day,2024-02-20,Outdoor Ground,Sports Committee
+3,Science Fair,2024-03-10,Science Block,Faculty of Science
+4,Annual Day,2024-04-25,Main Auditorium,College Administration
+5,Cultural Fest,2024-05-05,Main Ground,Arts Committee
+6,Workshop on AI,2024-06-18,Tech Lab,Computer Science Dept
+7,Seminar on Climate Change,2024-07-12,Seminar Hall,Environmental Club
+8,Entrepreneurship Summit,2024-08-22,Conference Room,Business Dept
+9,Alumni Meet,2024-09-14,Main Auditorium,Alumni Association
+10,Music Night,2024-10-11,Open Stage,Music Club
+11,Art Exhibition,2024-11-07,Art Gallery,Fine Arts Dept
+12,Food Fest,2024-12-01,Open Lawn,Canteen Committee
+13,Debate Competition,2024-01-30,Seminar Hall,Debate Club
+14,Chess Tournament,2024-02-18,Library,Chess Club
+15,Book Fair,2024-03-22,Library,Library Staff
+16,Photography Contest,2024-04-14,Photo Studio,Media Club
+17,Robotics Challenge,2024-05-27,Tech Lab,Robotics Club
+18,Film Screening,2024-06-21,Seminar Hall,Film Club
+19,Blood Donation Camp,2024-07-30,Health Center,Health Club
+22,Fashion Show,2024-08-09,Main Stage,Fashion Club
+110,Tech Fest,2024-01-15,Main Auditorium,Student Council
+111,Sports Day,2024-02-20,Outdoor Ground,Sports Committee
+112,Science Fair,2024-03-10,Science Block,Faculty of Science
+113,Annual Day,2024-04-25,Main Auditorium,College Administration
+114,Debate Competition,2024-05-15,Hall A,English Department
+115,Cultural Fest,2024-06-12,Open Stage,Arts Club
+116,Workshop on AI,2024-07-20,Computer Lab,IT Department
+117,Quiz Competition,2024-08-25,Hall B,Quiz Club
+118,Music Night,2024-09-05,Music Room,Music Club
+119,Dance Competition,2024-10-10,Dance Studio,Dance Club
+120,Orientation Day,2024-11-01,Main Hall,Admissions Office
+121,Photography Contest,2024-12-08,Garden Area,Photography Club
+122,Book Fair,2025-01-18,Library,Library Committee
+123,Art Exhibition,2025-02-22,Art Gallery,Arts Club
+124,Career Counseling,2025-03-15,Hall C,Career Office
+125,Health Camp,2025-04-20,Health Center,Health Club
+126,Guest Lecture,2025-05-25,Seminar Room,Guest Speakers Bureau
+127,Entrepreneurship Summit,2025-06-30,Conference Hall,Business Department
+128,Inter-College Sports,2025-07-15,Sports Arena,Sports Committee
+129,Alumni Meet,2025-08-25,Main Auditorium,Alumni Association

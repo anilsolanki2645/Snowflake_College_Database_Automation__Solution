@@ -1,0 +1,41 @@
+Item_ID,Item_Name,Price,Category
+1,Pasta,4.50,Main Course
+2,Burger,3.00,Fast Food
+3,Salad,2.50,Side Dish
+4,Sandwich,3.20,Main Course
+5,Fries,1.50,Snacks
+6,Coffee,1.20,Beverages
+7,Tea,1.00,Beverages
+8,Juice,2.00,Beverages
+9,Pizza,5.00,Main Course
+10,Noodles,4.00,Main Course
+11,Ice Cream,1.80,Dessert
+12,Muffin,1.50,Dessert
+13,Soup,2.20,Appetizer
+14,Hot Dog,2.70,Fast Food
+15,Donut,1.00,Snacks
+16,Fried Rice,3.50,Main Course
+17,Spring Roll,2.50,Appetizer
+18,Biryani,6.00,Main Course
+19,Cola,1.00,Beverages
+33,Smoothie,2.80,Beverages
+110,Pasta,4.50,Main Course
+111,Burger,3.00,Fast Food
+112,Salad,2.50,Side Dish
+113,Sandwich,3.20,Main Course
+114,French Fries,1.50,Snacks
+115,Chicken Wings,5.00,Appetizer
+116,Cheeseburger,4.00,Fast Food
+117,Grilled Cheese,2.80,Main Course
+118,Mixed Veg Salad,3.10,Side Dish
+119,Chicken Biryani,6.50,Main Course
+120,Paneer Butter Masala,5.50,Main Course
+121,Chole Bhature,3.50,Main Course
+122,Veg Noodles,4.00,Main Course
+123,Chicken Noodles,4.80,Main Course
+124,Chocolate Shake,2.00,Beverages
+125,Cold Coffee,2.50,Beverages
+126,Orange Juice,1.20,Beverages
+127,Apple Pie,3.40,Dessert
+128,Brownie,2.70,Dessert
+129,Mango Smoothie,3.00,Beverages

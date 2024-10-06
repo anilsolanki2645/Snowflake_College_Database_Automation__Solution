@@ -1,0 +1,41 @@
+Book_ID,Title,Author,ISBN,Published_Year,Available_Copies
+1,Introduction to Algorithms,Thomas H. Cormen,9780262033848,2009,5
+2,The Art of Computer Programming,Donald E. Knuth,9780201896831,1997,3
+3,Discrete Mathematics,Rosen,9780073383095,2011,7
+4,Physics for Scientists and Engineers,Serway,9781133110863,2013,6
+5,Organic Chemistry,Paula Yurkanis Bruice,9780134042282,2016,4
+6,Modern Operating Systems,Andrew S. Tanenbaum,9780133591620,2014,8
+7,The History of the Ancient World,Susan Wise Bauer,9780393059748,2007,2
+8,Psychology,David G. Myers,9781319015886,2018,10
+9,Economics,Paul Krugman,9781464143847,2015,12
+10,The Philosophy Book,Dorling Kindersley,9781405353298,2011,3
+11,Data Structures and Algorithms in Java,Robert Lafore,9780672324536,2002,9
+12,Computer Networks,Andrew S. Tanenbaum,9780132126953,2010,5
+13,Introduction to Graph Theory,Robin J. Wilson,9780273724994,2010,7
+14,Biology,Raven,9780073383071,2011,4
+15,Modern Physics,Raymond A. Serway,9781133103728,2012,6
+16,Mathematical Statistics,John E. Freund,9780134961001,1997,3
+17,The Cambridge History of Philosophy,Robert Pasnau,9780521367698,2003,2
+18,Principles of Microeconomics,N. Gregory Mankiw,9781285165905,2014,9
+19,Cognitive Psychology,Robert J. Sternberg,9781305505508,2016,8
+25,Introduction to Linear Algebra,Gilbert Strang,9780980232776,2009,7
+110,Introduction to Algorithms,Thomas H. Cormen,9780262033848,2009,5
+111,The Art of Computer Programming,Donald E. Knuth,9780201896831,1997,3
+112,Discrete Mathematics,Rosen,9780073383095,2011,7
+113,Physics for Scientists and Engineers,Serway,9781133110863,2013,6
+114,Organic Chemistry,Paula Yurkanis Bruice,9780134042282,2016,4
+115,Data Structures and Algorithms,Mark Allen Weiss,9780133001531,2013,8
+116,Digital Logic Design,Morris Mano,9780131984531,2006,10
+117,Principles of Economics,N. Gregory Mankiw,9780324589986,2009,12
+118,Linear Algebra and Its Applications,Gilbert Strang,9780030105678,1980,9
+119,Introduction to Electrodynamics,David J. Griffiths,9780138053260,1999,7
+120,Modern Physics,Arthur Beiser,9780073512143,2008,6
+121,Fundamentals of Thermodynamics,Richard E. Sonntag,9780471584781,2000,11
+122,Calculus: Early Transcendentals,James Stewart,9780538497909,2010,14
+123,Introduction to Quantum Mechanics,David J. Griffiths,9780131118928,2004,10
+124,Fluid Mechanics,Frank M. White,9780073311134,2008,5
+125,Engineering Mechanics,Statics,J.L. Meriam,9780471443129,2001,6
+126,Partial Differential Equations,Walter A. Strauss,9780470054567,2007,7
+127,Signals and Systems,Alan V. Oppenheim,9780138147570,1996,3
+128,Microeconomic Theory,Andreu Mas-Colell,9780195073409,1995,4
+129,Macroeconomics,Andrew B. Abel,9780132832096,2013,2

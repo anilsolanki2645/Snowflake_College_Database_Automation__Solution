@@ -1,0 +1,46 @@
+Student_ID,Name,Age,Major,Enrollment_Year,Email
+1,Alice Johnson,20,Computer Science,2021,alice.johnson@student.college.edu
+2,Bob Smith,21,Mathematics,2020,bob.smith@student.college.edu
+3,Charlie Brown,22,Physics,2019,charlie.brown@student.college.edu
+4,Diana Green,19,Biology,2022,diana.green@student.college.edu
+5,Ella White,23,History,2018,ella.white@student.college.edu
+6,Frank Taylor,21,Economics,2020,frank.taylor@student.college.edu
+7,Gina Harris,20,Chemistry,2021,gina.harris@student.college.edu
+8,Henry Lee,22,English,2019,henry.lee@student.college.edu
+9,Ivy Kim,19,Psychology,2022,ivy.kim@student.college.edu
+10,Jack Wilson,23,Philosophy,2018,jack.wilson@student.college.edu
+11,Kate Martinez,21,Computer Science,2020,kate.martinez@student.college.edu
+12,Luke Brown,20,Mathematics,2021,luke.brown@student.college.edu
+13,Mia Davis,22,Physics,2019,mia.davis@student.college.edu
+14,Nina Clark,19,Biology,2022,nina.clark@student.college.edu
+15,Owen Scott,23,History,2018,owen.scott@student.college.edu
+16,Paul Adams,21,Economics,2020,paul.adams@student.college.edu
+17,Quinn Young,20,Chemistry,2021,quinn.young@student.college.edu
+18,Rachel King,22,English,2019,rachel.king@student.college.edu
+19,Steve Parker,19,Psychology,2022,steve.parker@student.college.edu
+77,Tina Evans,23,Philosophy,2018,tina.evans@student.college.edu
+51,Ravi Mehta,20,ravi.mehta@example.com,9123456800,2023-05-11
+52,Anjali Desai,21,anjali.desai@example.com,9123456801,2023-06-16
+53,Varun Kapoor,22,varun.kapoor@example.com,9123456802,2023-07-21
+54,Shruti Joshi,23,shruti.joshi@example.com,9123456803,2023-08-26
+55,Deepak Gupta,24,deepak.gupta@example.com,9123456804,2023-09-01
+110,Alice Johnson,20,Computer Science,2021,alice.johnson@student.college.edu
+111,Bob Smith,21,Mathematics,2020,bob.smith@student.college.edu
+112,Charlie Brown,22,Physics,2019,charlie.brown@student.college.edu
+113,Diana Green,19,Biology,2022,diana.green@student.college.edu
+114,Ella White,23,History,2018,ella.white@student.college.edu
+115,Frank Taylor,21,Economics,2020,frank.taylor@student.college.edu
+116,Gary Roberts,22,English,2021,gary.roberts@student.college.edu
+117,Hannah Lewis,20,Philosophy,2022,hannah.lewis@student.college.edu
+118,Ian Clark,21,Statistics,2020,ian.clark@student.college.edu
+119,Jenna Martinez,23,Computer Science,2018,jenna.martinez@student.college.edu
+120,Kyle Johnson,20,Physics,2021,kyle.johnson@student.college.edu
+121,Lily Parker,19,Mathematics,2022,lily.parker@student.college.edu
+122,Michael Brown,22,Chemistry,2020,michael.brown@student.college.edu
+123,Nina Davis,21,History,2019,nina.davis@student.college.edu
+124,Oscar Wilson,23,Computer Science,2018,oscar.wilson@student.college.edu
+125,Paula Scott,20,Biology,2021,paula.scott@student.college.edu
+126,Quincy Adams,22,Physics,2020,quincy.adams@student.college.edu
+127,Rachel Allen,21,Chemistry,2019,rachel.allen@student.college.edu
+128,Steven Harris,23,Economics,2018,steven.harris@student.college.edu
+129,Tina Lewis,19,English,2022,tina.lewis@student.college.edu
