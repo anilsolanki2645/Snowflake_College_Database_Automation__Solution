@@ -7,7 +7,7 @@ Automated data integration and ETL pipeline that utilizes Snowflake services and
 ## Prerequisites
 
 To successfully implement this project, you will need:
-- **Snowflake Account**: A Snowflake instance to create databases, schemas, and tables.
+- **Snowflake Account**: Free tire account.
 - **AWS Account**: S3 for file storage and SNS for notifications.
 - **Google Colab**: For running Python scripts.
 - **Python (Boto3)**: To interact with AWS services programmatically.
@@ -17,7 +17,6 @@ To successfully implement this project, you will need:
 - **AWS SNS**: Simple Notification Service for real-time alerts.
 - **S3**: Secure data storage in the cloud.
 - **Stages**: Snowflake feature for managing external files.
-- **Pandas**: Data processing with Python.
 - **Boto3**: AWS Service Integration with Python.
 - **SQL**: For creating and managing database objects and data loading.
 - **Google Colab**: Running Python scripts for automation.
@@ -37,13 +36,13 @@ Moving beyond traditional data loading, the project ensures efficient task autom
 ## Project Work Flow
 
 ### Key Achievements:
-1. Automated Snowflake stage, schema, and table creation using SQL scripts.
+1. Automated Snowflake stage, schema, Procedure, File Format and table creation using SQL scripts.
 2. Configured Snowflake tasks to automate the data pipeline.
 3. Established AWS SNS for real-time alerts on task status.
-4. Integrated Google Colab for running Python scripts to interact with AWS services.
-5. Utilized Boto3 and Pandas to manage data uploads and transformations.
+4. Integrated Google Colab for running Python scripts to interact with Email Alert.
+5. Utilized Boto3 to connect AWS usnig Python.
 6. Created and loaded tables in Snowflake, transforming and migrating data efficiently.
-7. Demonstrated proficiency in Snowflake data modeling, schema design, and task automation.
+7. Demonstrated proficiency in Snowflake data modeling, schema design, Monitoring, Alerting, Automation Pipeline and task automation.
 8. Applied AWS services for data storage and notification management, ensuring an efficient pipeline.
 9. Successfully automated the process from data staging to task monitoring in Snowflake.
 10. Employed Python for orchestrating AWS SNS notifications and data handling.
@@ -51,13 +50,13 @@ Moving beyond traditional data loading, the project ensures efficient task autom
 12. Documented and organized the project for ease of use and future collaboration.
 
 ## Technologies Used:
-- **Snowflake**: Database, Stages, File Formats, Tasks
+- **Snowflake**: Database, Schemas, Stages, File Formats, Procedure, Tasks
 - **AWS**: SNS for alerts, S3 for file storage
-- **Python**: For automation and data manipulation (Boto3, Pandas)
+- **Python**: For automation and Alerting (Boto3)
 - **SQL**: For creating and managing Snowflake objects
-- **Google Colab**: Python script execution for AWS-Snowflake integration
+- **Google Colab**: Python script execution for AWS-Snowflake integration and Alerting
 
-This **End-to-End College Database Solution** project exemplifies the intersection of Snowflake’s powerful data management features with AWS’s real-time alerting and storage services. The result is a scalable, automated pipeline with a strong focus on monitoring, making it ideal for cloud-based ETL workflows.
+This **End-to-End College Database Solution** project exemplifies the intersection of Snowflake’s powerful data management features with AWS’s real-time alerting and storage services. The result is a scalable, automated pipeline with a strong focus on monitoring.
 
 **Note**: Please refer to the comments and instructions within the code to avoid errors or conflicts while working on this project.
 
